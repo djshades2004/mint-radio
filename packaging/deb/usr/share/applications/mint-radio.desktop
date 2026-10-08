@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Mint Radio
+Comment=Low-memory internet radio player
+Exec=mint-radio
+Icon=mint-radio
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=radio;music;mpv;
+StartupNotify=true

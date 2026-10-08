@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/djshades2004/mint-radio
+
+Files: *
+Copyright: 2026 djshades2004
+License: GPL-3.0-or-later
+
+Files: stations.json
+Copyright: 2026 djshades2004
+Comment: Station names/links were collected from the public-domain
+ radio-browser.info directory; this compilation is released under GPL-3.0-or-later.
+License: GPL-3.0-or-later

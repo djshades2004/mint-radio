@@ -1,0 +1,3 @@
+#!/bin/sh
+# mint-radio launcher (installed by .deb)
+exec /usr/bin/python3 /usr/share/mint-radio/main.py "$@"

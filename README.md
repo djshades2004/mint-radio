@@ -2,6 +2,8 @@
 
 Low-memory internet radio player for Linux Mint (Cinnamon). Python + Tkinter + mpv. ~55 MB while playing.
 
+![Mint Radio screenshot](assets/screenshot.png)
+
 ## Download
 
 Grab the latest `.deb` from
